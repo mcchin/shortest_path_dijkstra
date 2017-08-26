@@ -1,4 +1,4 @@
-# shortest_path_dijkstra
+# Shortest path PHP assignment
 Find shortest path from a multidimensional array (PHP)
 
 Given the map as shown below
