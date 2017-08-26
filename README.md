@@ -21,3 +21,7 @@ array(0,0,0,0,0,0,0,0,0,0));
 
 ![Output example](https://github.com/mcchin/shortest_path_dijkstra/raw/master/example.jpg "Ouput example")
 
+Clone the repository and run the following from terminal console to see the output
+```
+php shortest_path.php
+```
