@@ -48,7 +48,7 @@
 		const _RIGHT = 2;
 		const _LEFT = 3;
 
-    private $origin_coord;
+		private $origin_coord;
 		private $destination_coord;
 		private $map_data;
 		private $counter; // fail-safe for do-while
