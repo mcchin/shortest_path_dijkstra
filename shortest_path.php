@@ -310,5 +310,5 @@
 
 	// Thoughts:
 	// - How to process very large map? - Break it into sections?
-	// -
+	// - Take into account if this is a maze, handle dead-ends
 ?>
